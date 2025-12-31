@@ -19,4 +19,4 @@ if you want to develop we us, please contact:
 * then you can [download the EXE and DLL Files](https://github.com/BB-Software-Corporation/ButtonStyleGenerator/archive/refs/heads/main.zip)
 > Or you can watch the tutorial videos in YouTube for use
 >
-> [Button Style Generator Toturial Play List](https://www.youtube.com/playlist?list=PL23L56YU15KcdpuJSr1KllzU7IEVZvwRO)
+> [**Button Style Generator Toturial Play List**](https://www.youtube.com/playlist?list=PL23L56YU15KcdpuJSr1KllzU7IEVZvwRO)
